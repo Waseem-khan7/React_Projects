@@ -90,7 +90,6 @@ function App() {
           />
           <label htmlFor="characterInput">Characters</label>
       </div>
-      <button>Password</button>
     </div>
 </div>
     
